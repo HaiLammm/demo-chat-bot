@@ -1,6 +1,7 @@
 from langchain_ollama import ChatOllama
-from langchain.chains import RetrievalQA
-from langchain.prompts import PromptTemplate
+from langchain_classic.chains.retrieval import create_retrieval_chain
+from langchain_classic.chains.combine_documents import create_stuff_documents_chain
+from langchain_core.prompts import ChatPromptTemplate
 from rag.vectorstore import get_vectorstore
 import config
 
@@ -9,17 +10,19 @@ def get_rag_chain():
     vectorstore = get_vectorstore() 
     retriever = vectorstore.as_retriever(search_kwargs={"k": 1})
     
-    prompt_template = """
-    Sử dụng thông tin sau để trả lời câu hỏi một cách ngắn gọn. Nếu không biết, nói "Tôi không biết."
-    Context: {context}:
-    Question: {question}
-    Answer:
-    """
-    PROMPT = PromptTemplate(template=prompt_template, input_variables=["context", "question"])
-    
-    return RetrievalQA.from_chain_type(
-        llm=llm,
-        chain_type="stuff",
-        retriever=retriever,
-        chain_type_kwargs={"prompt": PROMPT}
+    system_prompt = (
+        "Sử dụng thông tin sau để trả lời câu hỏi một cách ngắn gọn. Nếu không biết, nói 'Tôi không biết.'"
+        "\n\n"
+        "{context}"
     )
+
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            ("system", system_prompt),
+            ("human", "{input}"),
+        ]
+    )
+
+    question_answer_chain = create_stuff_documents_chain(llm, prompt)
+    return create_retrieval_chain(retriever, question_answer_chain)
+

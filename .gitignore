@@ -4,7 +4,6 @@ venv
 .venv
 env
 .env
-
 # Các file chứa biến môi trường cục bộ (local environment variables)
 # Đây là các file thường chứa thông tin nhạy cảm như API keys, passwords, v.v.
 .env.local

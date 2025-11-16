@@ -11,7 +11,7 @@ class AI(commands.Cog):
     @commands.command(name='chat')
     async def chat(self, ctx, *, query: str):
         try:
-            response = self.rag_chain.invoke({"query": query})['result']
+            response = self.rag_chain.invoke({"input": query})['answer']
             await ctx.send(response)
             save_chat(ctx.author.id, query, response)  # Lưu lịch sử
         except Exception as e:

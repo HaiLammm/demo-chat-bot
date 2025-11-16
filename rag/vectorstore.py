@@ -5,7 +5,7 @@ import os
 import shutil
 from .data_loader import load_data 
 from langchain_ollama import OllamaEmbeddings
-from langchain.schema import Document
+from langchain_core.documents import Document
 
 def get_vectorstore():
     embeddings = get_embeddings()
