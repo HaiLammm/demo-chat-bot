@@ -1,0 +1,45 @@
+Linux Mint là một bản phân phối Linux dựa trên Ubuntu, được thiết kế dành cho người dùng mới bắt đầu. Ra mắt năm 2006 với phiên bản Ada, Linux Mint nhanh chóng trở thành một trong những distro phổ biến nhất nhờ giao diện thân thiện, dễ sử dụng và ổn định cao. Nó kế thừa sự ổn định từ Ubuntu LTS nhưng thêm các tùy chỉnh để giống Windows hơn, giúp chuyển đổi từ Windows/macos dễ dàng. Phiên bản hiện tại (2025) là Linux Mint 22, hỗ trợ x86-64 và IA-32 qua LMDE (Linux Mint Debian Edition). Linux Mint không hỗ trợ Snap packages của Canonical, ưu tiên Flatpak và AppImage cho phần mềm.
+---
+Tính năng nổi bật của Linux Mint:
+- Giao diện Cinnamon (mặc định): Hiện đại, tùy biến cao, hỗ trợ tiện ích mở rộng, hiệu năng tốt, giống Windows với menu Start và thanh tác vụ.
+- MATE Desktop: Truyền thống, ổn định, tiết kiệm tài nguyên, phù hợp máy cũ hoặc người dùng quen GNOME 2.
+- Xfce Desktop: Nhẹ, nhanh, tập trung hiệu suất, lý tưởng cho phần cứng hạn chế (RAM tối thiểu 1GB, khuyến nghị 2GB).
+- Công cụ độc quyền: MintUpdate (quản lý cập nhật an toàn), MintBackup (sao lưu dữ liệu), MintInstall (cài phần mềm nhanh), MintMenu (menu tìm kiếm thông minh).
+- Hỗ trợ đa phương tiện sẵn: Codec cho video/nhạc, không cần cài thêm như Ubuntu.
+- Bảo mật cao: Ít virus hơn Windows, cập nhật kernel mới qua Edge version.
+- Kho phần mềm phong phú: ~30.000 gói từ Ubuntu/Debian, dễ quản lý qua Software Manager.
+Linux Mint nổi bật với khả năng tùy biến cao, hiệu năng mượt mà trên máy yếu, và cộng đồng hỗ trợ mạnh mẽ.
+---
+Cài đặt Linux Mint cơ bản (cho người mới):
+- Yêu cầu tối thiểu: CPU 1GHz, RAM 1GB (khuyến nghị 2GB), ổ cứng 15GB, USB 4GB.
+- Bước 1: Tải ISO từ linuxmint.com (chọn Cinnamon/MATE/Xfce, mirror Việt Nam để nhanh).
+- Bước 2: Tạo USB boot bằng Etcher/Rufus (chọn sơ đồ GPT cho máy mới, MBR cho máy cũ).
+- Bước 3: Boot USB (nhấn F12/F2 vào BIOS, chọn UEFI mode).
+- Bước 4: Chạy Live Mode để thử nghiệm, sau đó nhấp "Install Linux Mint".
+- Bước 5: Chọn ngôn ngữ (hỗ trợ tiếng Việt), bàn phím, múi giờ, phân vùng (Something Else cho dual-boot với Windows).
+- Bước 6: Tạo user/password, chờ cài đặt (5-10 phút), khởi động lại và tháo USB.
+- Dual-boot với Windows: Tắt Fast Boot trong Windows, tạo phân vùng trống bằng GParted trước khi cài.
+- Lưu ý: Backup dữ liệu trước khi cài, chọn "Install alongside Windows" nếu muốn song song.
+---
+Cài đặt phần mềm trên Linux Mint:
+- Software Manager: Giao diện đồ họa để tìm kiếm và cài (tương tự App Store), hỗ trợ Flatpak/AppImage.
+- Terminal (apt): Cập nhật: `sudo apt update`. Cài: `sudo apt install [tên gói]` (ví dụ: `sudo apt install vim`). Gỡ: `sudo apt remove [tên gói]`.
+- Flatpak: Cài Flatpak nếu chưa: `sudo apt install flatpak`. Thêm repo: `flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo`. Cài: `flatpak install flathub [app]`.
+- AppImage: Tải file .AppImage, chmod +x, chạy trực tiếp (không cần cài).
+- Snap (không khuyến khích): `sudo apt install snapd`, sau đó `sudo snap install [app]`.
+- MintInstall: Công cụ độc quyền để cài nhanh từ kho phần mềm, hỗ trợ tải từ web.
+- Mẹo: Sử dụng Synaptic Package Manager cho giao diện đồ họa apt.
+---
+Mẹo và thủ thuật Linux Mint:
+- Tùy chỉnh giao diện Cinnamon: Cài theme/applet qua Menu > Preferences > Themes/Applets.
+- Cập nhật hệ thống an toàn: Sử dụng MintUpdate thay vì apt để tránh xung đột.
+- Sao lưu dữ liệu: MintBackup tự động backup file/config, chạy định kỳ.
+- Tối ưu hiệu suất: Sử dụng Xfce cho máy yếu, tắt animation trong Cinnamon Settings.
+- Dual-boot fix: Nếu boot vào Windows thẳng, cài GRUB Customizer: `sudo apt install grub-customizer`.
+- Cài driver NVIDIA/AMD: Qua Driver Manager trong Menu > Administration.
+- Thủ thuật terminal: Sử dụng `alias ll='ls -la'` trong ~/.bashrc để lệnh nhanh.
+- Quản lý file: Nemo (file manager mặc định) hỗ trợ bookmark và preview.
+- Bảo mật: Cài UFW firewall: `sudo ufw enable`. Sử dụng Timeshift để snapshot hệ thống.
+- Khôi phục: Nếu lỗi, boot Live USB và chroot để sửa GRUB.
+- Mẹo cho lập trình viên: Cài VS Code qua Flatpak, tích hợp Git qua Terminal.
+- So sánh với Ubuntu: Mint dễ dùng hơn (giao diện quen thuộc, không Snap), ổn định hơn cho desktop, nhưng Ubuntu tốt hơn cho server/cloud.

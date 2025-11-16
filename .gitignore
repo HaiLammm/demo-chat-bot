@@ -1,0 +1,46 @@
+# Thư mục cài đặt package (Virtual Environment)
+# Thư mục này chứa các thư viện đã cài đặt và không nên được commit vào Git.
+venv
+.venv
+env
+.env
+
+# Các file chứa biến môi trường cục bộ (local environment variables)
+# Đây là các file thường chứa thông tin nhạy cảm như API keys, passwords, v.v.
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Hoặc các file có tên cụ thể
+settings_local.py
+config_local.py
+
+# Các file/thư mục tạm thời, caches, logs
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.$py.class
+
+# Các file log
+*.log
+celerybeat-schedule
+celeryd.pid
+
+.DS_Store
+
+Thumbs.db
+
+# Jupyter/IPython Notebook files (có thể bỏ qua nếu không dùng)
+.ipynb_checkpoints
+
+# Python test coverage
+.coverage
+.tox/
+.pytest_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
