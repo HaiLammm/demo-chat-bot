@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Tú Đức Hoàng",
+        "title": "Nhân viên Fresher IT",
+        "email": "janehoang@example.net",
+        "phone": "+84-26-775637"
+    },
+    "education": [
+        {
+            "school": "Nguyễn và Dương Công ty TNHH MTV",
+            "major": "Tester",
+            "time": "(2022 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn Dương Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên Fresher IT",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Đó tôi đi sẽ vẫn.",
+                "Chưa làm có sẽ đến để khiến.",
+                "Giống bạn để của với.",
+                "Vài điều đó có."
+            ]
+        }
+    ],
+    "certifications": [
+        "đúng"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Khiến đó là bên dưới."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

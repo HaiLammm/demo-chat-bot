@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Bác Nhiên Hoàng",
+        "title": "Biên dịch viên",
+        "email": "dangjohn@example.net",
+        "phone": "+84 47 0063312"
+    },
+    "education": [
+        {
+            "school": "Hoàng và đối tác Công ty Cổ phần",
+            "major": "Nhân viên ngân hàng",
+            "time": "(2015 - 2022)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn và Vũ Tập Đoàn",
+            "role": "Chuyên viên Kế toán",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Vậy bạn cách.",
+                "Chỉ cũng giữa các giống đúng từ.",
+                "Nhưng người thế trong.",
+                "Gần như tôi thì nếu làm.",
+                "Người các như thì nào."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Giống nếu hoặc với."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

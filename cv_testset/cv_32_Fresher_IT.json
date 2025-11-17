@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Bà Thành Đặng",
+        "title": "DevOps Engineer",
+        "email": "tranjane@example.net",
+        "phone": "+84 08 8420648"
+    },
+    "education": [
+        {
+            "school": "Hoàng và đối tác Công ty Cổ phần",
+            "major": "Kế toán",
+            "time": "(2016 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm Trần Doanh nghiệp tư nhân",
+            "role": "Chuyên viên Fresher IT",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Khiến thì giống được cho tại mỗi.",
+                "Từng nhưng một nào cũng vậy với.",
+                "Nơi thế khiến nào này vẫn từng.",
+                "Thế thay nơi tự."
+            ]
+        }
+    ],
+    "certifications": [
+        "như"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Dưới của đến về khi."
+    ],
+    "hobbies": [
+        "Từ vẫn với gần nơi."
+    ],
+    "activities": [
+        "2025"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

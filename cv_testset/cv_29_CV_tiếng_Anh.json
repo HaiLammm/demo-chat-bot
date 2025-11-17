@@ -1,0 +1,45 @@
+{
+    "personal_info": {
+        "name": "Lâm Đặng",
+        "title": "Nhân viên CV tiếng Anh",
+        "email": "lejohn@example.net",
+        "phone": "06 2829925"
+    },
+    "education": [
+        {
+            "school": "Nguyễn Nguyễn Công ty Trách nhiệm hữu hạn",
+            "major": "Nghệ sĩ",
+            "time": "(2017 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm và đối tác Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên CV tiếng Anh",
+            "duration": "(2021 - 2025)",
+            "description": [
+                "Dưới vài nơi điều làm trong điều.",
+                "Tự vẫn để có.",
+                "Như vài có này cũng.",
+                "Vì nhưng bạn."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Đúng khiến điều sau."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

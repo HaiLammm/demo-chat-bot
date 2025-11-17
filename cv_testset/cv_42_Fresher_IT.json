@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Hạnh Đặng",
+        "title": "Nhân viên Fresher IT",
+        "email": "janetran@example.com",
+        "phone": "+84-81-083 9426"
+    },
+    "education": [
+        {
+            "school": "Đặng Dương Công ty Hợp danh",
+            "major": "Thư ký pháp lý",
+            "time": "(2018 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Hoàng và đối tác Tập Đoàn",
+            "role": "Chuyên viên Fresher IT",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Với trong đang về.",
+                "Vài điều đến số.",
+                "Như chưa trong như đến từ.",
+                "Thế giữa với số dưới của.",
+                "Chỉ cách có sẽ nếu đi rất."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Chưa người cái đó có."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "personal_info": {
+        "name": "Nhiên Trần",
+        "title": "Chuyên viên tín dụng",
+        "email": "nvu@example.org",
+        "phone": "+84 83 1300566"
+    },
+    "education": [
+        {
+            "school": "Lê và đối tác Công ty TNHH",
+            "major": "Bác sĩ",
+            "time": "(2021 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Vũ và Phạm Công ty Cổ phần",
+            "role": "Chuyên viên Sales B2B",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Và tự như hoặc như.",
+                "Như đến như điều lớn cũng theo khi.",
+                "Các được nhiều như gần có chỉ."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Nếu đang gần được vậy theo."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

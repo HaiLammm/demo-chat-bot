@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Chi Bùi",
+        "title": "Nhân viên lễ tân",
+        "email": "john05@example.com",
+        "phone": "(08)550-8840"
+    },
+    "education": [
+        {
+            "school": "Dương và đối tác Công ty Trách nhiệm hữu hạn",
+            "major": "Luật sư",
+            "time": "(2020 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Đặng Đặng Công ty Cổ phần",
+            "role": "Chuyên viên CV tiếng Anh",
+            "duration": "(2020 - 2025)",
+            "description": [
+                "Tôi này tôi sẽ một.",
+                "Như không từng của.",
+                "Đến hơn nhưng cũng."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Cách của đúng."
+    ],
+    "hobbies": [
+        "Như như lớn người."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

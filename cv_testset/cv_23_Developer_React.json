@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Nhật Hoàng Đặng",
+        "title": "Nhân viên Developer React",
+        "email": "vujohn@example.net",
+        "phone": "(03) 1116 4376"
+    },
+    "education": [
+        {
+            "school": "Lê Bùi Công ty Cổ phần",
+            "major": "Kỹ sư nông nghiệp",
+            "time": "(2022 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn và Hoàng Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên Developer React",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Hơn nơi chưa và của theo của.",
+                "Vẫn để chỉ nhiều mỗi vì.",
+                "Giữa người là nhưng tại đang.",
+                "Từ rất một như sau sẽ như mà.",
+                "Từng từng có cách với không.",
+                "Người hoặc điều.",
+                "Vài của rất các tự là cũng."
+            ]
+        }
+    ],
+    "certifications": [
+        "người"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Với hơn chưa có mỗi."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

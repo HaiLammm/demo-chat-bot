@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Hoàng Thị Hoàng",
+        "title": "Nhân viên Sales B2B",
+        "email": "janedang@example.com",
+        "phone": "+84-02-723 8388"
+    },
+    "education": [
+        {
+            "school": "Phạm và Mai Công ty TNHH",
+            "major": "Tư vấn khách hàng",
+            "time": "(2022 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Dương Công ty Cổ phần",
+            "role": "Chuyên viên Sales B2B",
+            "duration": "(2023 - 2025)",
+            "description": [
+                "Cách nơi như cũng để dưới người.",
+                "Đến như chưa đến thay giữa.",
+                "Trong đến tự đi như hơn.",
+                "Vẫn chưa thay vì với của mà là.",
+                "Nào người hơn thế.",
+                "Các với vì như một vì.",
+                "Chỉ với tại các."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Để hơn giống có."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

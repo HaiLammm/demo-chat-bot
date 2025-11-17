@@ -1,0 +1,51 @@
+{
+    "personal_info": {
+        "name": "Kim Phú Bùi",
+        "title": "Nhân viên Chuyển ngành sales→IT",
+        "email": "tnguyen@example.org",
+        "phone": "+84 05 9041540"
+    },
+    "education": [
+        {
+            "school": "Lê và Hoàng Công ty Hợp danh",
+            "major": "Công nhân sản xuất",
+            "time": "(2021 - 2022)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Dương và Mai Công ty Hợp danh",
+            "role": "Chuyên viên Chuyển ngành sales→IT",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Như hoặc sau từ dưới lớn điều.",
+                "Cũng đúng về khiến.",
+                "Bên cũng có nơi.",
+                "Chỉ giữa lớn nào là.",
+                "Nhiều như là cho không.",
+                "Vài hơn đi cái giữa có cũng người."
+            ]
+        }
+    ],
+    "certifications": [
+        "giống"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [
+        "Như để đi lớn để."
+    ],
+    "hobbies": [
+        "Thay về từ là đến."
+    ],
+    "activities": [
+        "2025"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

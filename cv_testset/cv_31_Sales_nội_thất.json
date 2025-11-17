@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Nam Phạm",
+        "title": "Giáo viên",
+        "email": "hoangjane@example.net",
+        "phone": "+84 60 2276022"
+    },
+    "education": [
+        {
+            "school": "Đặng Công ty Trách nhiệm hữu hạn",
+            "major": "Luật sư",
+            "time": "(2020 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Hoàng Lê Tập Đoàn",
+            "role": "Chuyên viên Sales nội thất",
+            "duration": "(2023 - 2024)",
+            "description": [
+                "Đi là một và.",
+                "Từ làm nếu đến như tại thế.",
+                "Khiến về cho và tại.",
+                "Vài cái cũng cho thì có với số."
+            ]
+        }
+    ],
+    "certifications": [
+        "theo"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Hoặc có thì điều đang từ."
+    ],
+    "hobbies": [
+        "Cái của rất cho cũng dưới."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

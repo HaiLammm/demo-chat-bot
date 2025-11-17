@@ -1,0 +1,45 @@
+{
+    "personal_info": {
+        "name": "Bảo Nguyễn",
+        "title": "Nhân viên Kế toán",
+        "email": "xduong@example.net",
+        "phone": "08 9047 0261"
+    },
+    "education": [
+        {
+            "school": "Trần Dương Công ty Cổ phần",
+            "major": "Điều Dưỡng",
+            "time": "(2022 - 2021)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Đặng Hoàng Công ty Hợp danh",
+            "role": "Chuyên viên Kế toán",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Thay để từ vài giữa.",
+                "Từ giữa để.",
+                "Từ tại thay thay giống.",
+                "Bạn có thì và."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Thay đang sau sẽ lớn."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Quý ông Bảo Đặng",
+        "title": "Thư ký pháp lý",
+        "email": "john98@example.org",
+        "phone": "(00)603-3219"
+    },
+    "education": [
+        {
+            "school": "Đặng và Phạm Công ty Cổ phần",
+            "major": "UX/UI Designer",
+            "time": "(2015 - 2021)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Bùi Tập Đoàn",
+            "role": "Chuyên viên Kế toán",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Sẽ cho hơn đúng đi.",
+                "Để cũng sẽ khiến.",
+                "Có vì mỗi của nào theo không.",
+                "Bên được vì để nhưng có.",
+                "Như hơn mỗi cách sẽ này đi.",
+                "Lớn cũng như như hơn."
+            ]
+        }
+    ],
+    "certifications": [
+        "sau"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Của cách cho này như bên hơn."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

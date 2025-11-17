@@ -1,0 +1,45 @@
+{
+    "personal_info": {
+        "name": "Chị Xuân Lê",
+        "title": "Nhân viên Digital Marketing",
+        "email": "jane28@example.org",
+        "phone": "+84-35-416 4167"
+    },
+    "education": [
+        {
+            "school": "Mai và Vũ Công ty Trách nhiệm hữu hạn",
+            "major": "Nhân viên ngân hàng",
+            "time": "(2020 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Trần và Phạm Doanh nghiệp tư nhân",
+            "role": "Chuyên viên Digital Marketing",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Bạn như tôi.",
+                "Nơi nơi trong cũng.",
+                "Hơn gần bên bạn cũng nơi vì.",
+                "Nhưng sẽ với của để theo của từ."
+            ]
+        }
+    ],
+    "certifications": [
+        "thì"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Như hơn cũng vậy."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

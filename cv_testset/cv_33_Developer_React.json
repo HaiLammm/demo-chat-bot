@@ -1,0 +1,44 @@
+{
+    "personal_info": {
+        "name": "Dương Lê",
+        "title": "Công nhân sản xuất",
+        "email": "janeduong@example.org",
+        "phone": "+84-36-214051"
+    },
+    "education": [
+        {
+            "school": "Hoàng Công ty TNHH",
+            "major": "Giáo viên",
+            "time": "(2020 - 2019)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm Trần Công ty TNHH MTV",
+            "role": "Chuyên viên Developer React",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Vậy bạn lớn khiến như.",
+                "Gần từ tại nếu có với.",
+                "Gần vài thay của cách của."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Tại về vì lớn cũng."
+    ],
+    "activities": [
+        "2025"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

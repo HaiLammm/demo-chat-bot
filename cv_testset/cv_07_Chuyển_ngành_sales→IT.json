@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Thảo Dương",
+        "title": "Nhân viên Chuyển ngành sales→IT",
+        "email": "jane30@example.org",
+        "phone": "(05)831-9153"
+    },
+    "education": [
+        {
+            "school": "Phạm Hoàng Công ty Hợp danh",
+            "major": "UX/UI Designer",
+            "time": "(2021 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm và Hoàng Doanh nghiệp tư nhân",
+            "role": "Chuyên viên Chuyển ngành sales→IT",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Với lớn từ như trong như nhưng.",
+                "Như thì như theo mỗi dưới.",
+                "Nhưng từng mỗi cho.",
+                "Tại giữa không số sẽ trong trong vì."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Như như nếu đang."
+    ],
+    "hobbies": [
+        "Đi để đúng bạn và."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

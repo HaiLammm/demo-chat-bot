@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Hương Dương",
+        "title": "Nhân viên HR Recruiter",
+        "email": "john82@example.net",
+        "phone": "+84 75 6124743"
+    },
+    "education": [
+        {
+            "school": "Bùi Lê Công ty TNHH MTV",
+            "major": "Kiến trúc sư",
+            "time": "(2015 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Vũ và đối tác Công ty Cổ phần",
+            "role": "Chuyên viên HR Recruiter",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Vì giữa hoặc mà.",
+                "Của của là nhiều.",
+                "Bên như trong nào có.",
+                "Các giữa để có trong vài.",
+                "Như chỉ được của chỉ một để."
+            ]
+        }
+    ],
+    "certifications": [
+        "nếu"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Có khiến đang hoặc theo cách."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

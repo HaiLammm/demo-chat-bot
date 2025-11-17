@@ -1,0 +1,50 @@
+{
+    "personal_info": {
+        "name": "Hà Hữu Phạm",
+        "title": "Nhân viên Digital Marketing",
+        "email": "kle@example.net",
+        "phone": "06 3920 3735"
+    },
+    "education": [
+        {
+            "school": "Trần và đối tác Công ty Trách nhiệm hữu hạn",
+            "major": "Marketing Manager",
+            "time": "(2020 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn Công ty TNHH",
+            "role": "Chuyên viên Digital Marketing",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Của của bạn giữa từ để sẽ.",
+                "Sẽ khi lớn.",
+                "Không tự với cũng.",
+                "Với để cho với.",
+                "Các tôi tại tại của sau được.",
+                "Có từ số với.",
+                "Như chỉ đó tại giống."
+            ]
+        }
+    ],
+    "certifications": [
+        "tại"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Để như làm cái với mà."
+    ],
+    "activities": [
+        "2025"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

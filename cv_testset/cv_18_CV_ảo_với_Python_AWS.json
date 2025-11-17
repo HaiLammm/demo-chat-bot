@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "Kim Tấn Trần",
+        "title": "Nhân viên CV ảo với Python/AWS",
+        "email": "john57@example.org",
+        "phone": "+84 07 5358518"
+    },
+    "education": [
+        {
+            "school": "Dương và Nguyễn Tập Đoàn",
+            "major": "Quản lý sản xuất",
+            "time": "(2015 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm và đối tác Công ty TNHH MTV",
+            "role": "Chuyên viên CV ảo với Python/AWS",
+            "duration": "(2020 - 2025)",
+            "description": [
+                "Với vẫn khi cũng.",
+                "Là gần như số trong.",
+                "Chưa thay người đến nào.",
+                "Cũng vẫn cũng đó hơn các tại.",
+                "Gần nếu nơi có của này đúng chưa.",
+                "Là cho của tự.",
+                "Gần cũng tại trong để chỉ."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Python",
+        "NextJs",
+        "AWS"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Chưa giống về không để."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

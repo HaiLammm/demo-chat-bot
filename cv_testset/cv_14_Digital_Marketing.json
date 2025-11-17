@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Quý cô Thành Đặng",
+        "title": "Nhân viên Digital Marketing",
+        "email": "johnmai@example.org",
+        "phone": "+84-84-969 4784"
+    },
+    "education": [
+        {
+            "school": "Phạm và Đặng Công ty Cổ phần",
+            "major": "Nhà phân tích dữ liệu",
+            "time": "(2015 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn và đối tác Công ty Hợp danh",
+            "role": "Chuyên viên Digital Marketing",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Cái mà nhưng.",
+                "Hơn mỗi như với vài.",
+                "Vài thì điều cho để làm sẽ của.",
+                "Một nào như như lớn sau."
+            ]
+        }
+    ],
+    "certifications": [
+        "chưa"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Của là làm."
+    ],
+    "hobbies": [
+        "Gần vài thì nơi mỗi khi sẽ."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

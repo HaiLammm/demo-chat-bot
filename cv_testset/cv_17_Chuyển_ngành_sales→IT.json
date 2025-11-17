@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Chị Nhật Trần",
+        "title": "Nhân viên Chuyển ngành sales→IT",
+        "email": "jane17@example.org",
+        "phone": "(05) 3985 0398"
+    },
+    "education": [
+        {
+            "school": "Lê và Bùi Công ty TNHH MTV",
+            "major": "Thư ký pháp lý",
+            "time": "(2017 - 2024)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Trần và đối tác Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên Chuyển ngành sales→IT",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Này hoặc nhiều để.",
+                "Cái như để trong để bên có sẽ.",
+                "Rất lớn được để một làm.",
+                "Cũng cũng mà.",
+                "Đúng đang mà thay thì làm từ.",
+                "Khiến vài nếu giống."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Thế để như gần để sau."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

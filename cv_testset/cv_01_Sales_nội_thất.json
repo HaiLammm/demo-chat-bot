@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Nhiên Phạm",
+        "title": "Nhân viên Sales nội thất",
+        "email": "zle@example.com",
+        "phone": "+84 68 1562005"
+    },
+    "education": [
+        {
+            "school": "Hoàng và đối tác Doanh nghiệp tư nhân",
+            "major": "Tester",
+            "time": "(2018 - 2019)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn Trần Công ty Cổ phần",
+            "role": "Chuyên viên Sales nội thất",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Bên được cái hoặc với.",
+                "Bên gần mỗi theo làm.",
+                "Rất đến lớn khiến một như như."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Mà có tại mà đúng."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

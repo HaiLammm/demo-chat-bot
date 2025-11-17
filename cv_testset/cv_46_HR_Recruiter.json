@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Nam Mai Hoàng",
+        "title": "Nhân viên HR Recruiter",
+        "email": "lejohn@example.org",
+        "phone": "01 3238072"
+    },
+    "education": [
+        {
+            "school": "Hoàng và Bùi Công ty Trách nhiệm hữu hạn",
+            "major": "Nhà thiết kế đồ họa",
+            "time": "(2018 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Mai và đối tác Doanh nghiệp tư nhân",
+            "role": "Chuyên viên HR Recruiter",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Có điều chỉ mà.",
+                "Điều làm hơn điều.",
+                "Như thì sẽ của vài."
+            ]
+        }
+    ],
+    "certifications": [
+        "bên"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Cái như về mỗi."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

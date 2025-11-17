@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Bảo Đức Lê",
+        "title": "Nhân viên lễ tân",
+        "email": "johnbui@example.com",
+        "phone": "+84-35-527455"
+    },
+    "education": [
+        {
+            "school": "Hoàng và đối tác Công ty TNHH MTV",
+            "major": "Kỹ sư giám sát",
+            "time": "(2016 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm và đối tác Công ty TNHH MTV",
+            "role": "Chuyên viên Kế toán",
+            "duration": "(2020 - 2025)",
+            "description": [
+                "Cái của là các về vì.",
+                "Các về tại.",
+                "Các đúng có mà.",
+                "Là đó chỉ đúng hoặc.",
+                "Người đi giữa chỉ dưới cũng hơn chỉ.",
+                "Điều có gần bên cách cũng.",
+                "Cũng đang đúng."
+            ]
+        }
+    ],
+    "certifications": [
+        "trong"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Vẫn từ từ."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

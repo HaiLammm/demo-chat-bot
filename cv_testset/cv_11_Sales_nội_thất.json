@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Bác Quang Nguyễn",
+        "title": "Nhân viên Sales nội thất",
+        "email": "johnvu@example.org",
+        "phone": "+84 36 8094042"
+    },
+    "education": [
+        {
+            "school": "Mai và Lê Công ty TNHH",
+            "major": "Nhà báo",
+            "time": "(2021 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Dương và Bùi Công ty Hợp danh",
+            "role": "Chuyên viên Sales nội thất",
+            "duration": "(2023 - 2025)",
+            "description": [
+                "Mỗi cũng thay hoặc cũng từng.",
+                "Như tại dưới thế như này vậy tôi.",
+                "Cho hơn tôi.",
+                "Tôi và khi không đang tại."
+            ]
+        }
+    ],
+    "certifications": [
+        "để"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Từ cách đi vậy nơi để."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Ánh Lê",
+        "title": "Nhân viên Kế toán",
+        "email": "john47@example.org",
+        "phone": "(07) 3891 2179"
+    },
+    "education": [
+        {
+            "school": "Nguyễn và đối tác Doanh nghiệp tư nhân",
+            "major": "Kiến trúc sư phần mềm",
+            "time": "(2017 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm và đối tác Doanh nghiệp tư nhân",
+            "role": "Chuyên viên Kế toán",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Gần mà thế trong mỗi vậy tại.",
+                "Đang như từ để cái chưa nếu mà.",
+                "Gần trong về thế bạn đúng.",
+                "Cái với hơn tôi hơn có.",
+                "Khiến đến dưới đó thì thế."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Trong một đến của đang có cho."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

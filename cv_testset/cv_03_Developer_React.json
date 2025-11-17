@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "Ánh Đặng",
+        "title": "Nhân viên khách sạn",
+        "email": "phamjane@example.org",
+        "phone": "+84-36-021 1806"
+    },
+    "education": [
+        {
+            "school": "Vũ Công ty Cổ phần",
+            "major": "Tư vấn khách hàng",
+            "time": "(2020 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn và đối tác Công ty TNHH",
+            "role": "Chuyên viên Developer React",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Như được như rất nơi có.",
+                "Rất theo khiến thì.",
+                "Một của cũng thế đang khi các lớn.",
+                "Cho cho tôi lớn với.",
+                "Điều nếu đó giống tại.",
+                "Để trong mỗi với đã theo nếu."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Bên thay đó."
+    ],
+    "hobbies": [
+        "Mà khi này làm rất một có."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

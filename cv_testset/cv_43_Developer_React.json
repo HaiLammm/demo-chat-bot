@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Trung Bùi",
+        "title": "Kiểm toán",
+        "email": "jane40@example.org",
+        "phone": "03 5614085"
+    },
+    "education": [
+        {
+            "school": "Phạm và đối tác Công ty Cổ phần",
+            "major": "Nghệ sĩ",
+            "time": "(2018 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Trần Công ty TNHH MTV",
+            "role": "Chuyên viên Developer React",
+            "duration": "(2023 - 2025)",
+            "description": [
+                "Như người được có.",
+                "Từ đã của rất.",
+                "Cách vài để bên chỉ."
+            ]
+        }
+    ],
+    "certifications": [
+        "lớn"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [
+        "Vì các hơn không sẽ với."
+    ],
+    "hobbies": [
+        "Cho chưa tại số."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

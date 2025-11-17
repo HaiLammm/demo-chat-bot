@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Chị Nhật Hoàng",
+        "title": "Nhân viên nhà hàng",
+        "email": "apham@example.org",
+        "phone": "(00)556-0295"
+    },
+    "education": [
+        {
+            "school": "Bùi Phạm Công ty TNHH",
+            "major": "Điều Dưỡng",
+            "time": "(2022 - 2021)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Dương Mai Công ty Hợp danh",
+            "role": "Chuyên viên Chuyển ngành sales→IT",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Như của nơi hoặc.",
+                "Cũng thế của gần giữa vài trong.",
+                "Nơi sau như thế vì."
+            ]
+        }
+    ],
+    "certifications": [
+        "với"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Từng người với đã sau."
+    ],
+    "hobbies": [
+        "Để trong cách như một cách khi."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

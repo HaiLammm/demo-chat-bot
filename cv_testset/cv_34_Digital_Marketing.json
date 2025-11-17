@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "Châu Hoàng Vũ",
+        "title": "Nhân viên Digital Marketing",
+        "email": "nguyenjane@example.com",
+        "phone": "+84-42-013 6839"
+    },
+    "education": [
+        {
+            "school": "Phạm và Nguyễn Doanh nghiệp tư nhân",
+            "major": "UX/UI Designer",
+            "time": "(2019 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Mai và đối tác Công ty Hợp danh",
+            "role": "Chuyên viên Digital Marketing",
+            "duration": "(2021 - 2025)",
+            "description": [
+                "Tự mỗi vậy về như số.",
+                "Lớn có từng với tại chưa.",
+                "Là từ sau này nhưng mỗi.",
+                "Thì sẽ hoặc lớn.",
+                "Điều nơi để thay có đó của.",
+                "Giống hơn trong được nhiều nơi."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Điều giống lớn."
+    ],
+    "hobbies": [
+        "Điều với khi như để rất tôi."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

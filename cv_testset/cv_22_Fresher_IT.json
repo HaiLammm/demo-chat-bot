@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Bác Thành Hoàng",
+        "title": "Bác sĩ",
+        "email": "dnguyen@example.com",
+        "phone": "+84-82-884636"
+    },
+    "education": [
+        {
+            "school": "Đặng Vũ Công ty Cổ phần",
+            "major": "Luật sư",
+            "time": "(2019 - 2024)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Trần và đối tác Công ty TNHH",
+            "role": "Chuyên viên Fresher IT",
+            "duration": "(2023 - 2025)",
+            "description": [
+                "Hoặc này gần từng từ giống hơn thế.",
+                "Chưa cái về hoặc đến gần.",
+                "Đến là lớn để các sau điều."
+            ]
+        }
+    ],
+    "certifications": [
+        "tôi"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Sau được từ vài đi điều là."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

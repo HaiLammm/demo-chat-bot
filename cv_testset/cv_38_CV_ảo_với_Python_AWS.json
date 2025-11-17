@@ -1,0 +1,50 @@
+{
+    "personal_info": {
+        "name": "Ông Hoàng Nguyễn",
+        "title": "Nhân viên CV ảo với Python/AWS",
+        "email": "johnbui@example.com",
+        "phone": "+84-99-407 9893"
+    },
+    "education": [
+        {
+            "school": "Phạm Công ty Cổ phần",
+            "major": "Nhân viên kinh doanh",
+            "time": "(2019 - 2019)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Hoàng và Vũ Công ty Cổ phần",
+            "role": "Chuyên viên CV ảo với Python/AWS",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Nhưng mà để được tự hơn cũng bạn.",
+                "Đi bạn chỉ.",
+                "Từ đang nơi từng vẫn.",
+                "Theo trong mỗi thì lớn giữa.",
+                "Làm giữa lớn tôi trong.",
+                "Đúng chỉ như này với lớn vài."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Python",
+        "NextJs",
+        "AWS",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Bạn của khiến một như."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

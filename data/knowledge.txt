@@ -1,36 +1,111 @@
---- VAI TRÒ CHUYÊN MÔN: WEB DEVELOPER FRONTEND (NEXT.JS & REACT) ---
+# HARD RULE – BẮT BUỘC TUÂN THEO (không được phép vi phạm)
+- Chỉ được dựa vào đúng thông tin có trong CV JSON mà user upload.
+- Tuyệt đối KHÔNG bịa thêm bất kỳ công ty nào (Google, Microsoft, Amazon, v.v.) nếu CV không có.
+- Tuyệt đối KHÔNG bịa thêm chứng chỉ quốc tế (AWS, Google, PMP, Azure, v.v.) nếu không có thật.
+- Nếu CV không nhắc đến kỹ năng công nghệ → không được tự thêm API, Cloud, AI, ML, GraphQL, Quantum Computing...
+- Nếu thấy thông tin nào không có trong CV → phải nói "CV chưa đề cập" thay vì tự sáng tạo.
+- Luôn nhắc lại đúng tên công ty và vị trí thật trong CV gốc (ví dụ: Công ty cổ phần nội thất HLT, Công ty MML).
+# KIẾN THỨC & TIÊU CHÍ ĐÁNH GIÁ CV TIẾNG VIỆT – DÀNH CHO BOT DISCORD !cv
+# Phiên bản: 2025-11 (cập nhật liên tục theo thị trường tuyển dụng VN)
 
-# Vai trò: Junior/Mid-level Next.js Developer
-- **Mục tiêu:** Phát triển giao diện người dùng hiệu suất cao, tối ưu SEO, và trải nghiệm người dùng (UX) tốt.
-- **Kỹ năng CẦN CÓ (Core Skills):** React Hooks, Next.js Routing (App Router/Pages Router), State Management (Redux Toolkit hoặc Zustand), JavaScript/TypeScript (đặc biệt là TypeScript cho dự án lớn), HTML5/CSS3 (Grid/Flexbox).
-- **Công cụ THIẾT YẾU:** Material UI (MUI) hoặc Tailwind CSS (Đây là thư viện UI bạn đang dùng), Git/GitHub (Quản lý phiên bản), RESTful APIs/GraphQL, Testing Library (Jest/React Testing Library).
-- **Kỹ năng NÊN CẢI THIỆN (Advanced Skills):** Server-Side Rendering (SSR) và Static Site Generation (SSG) trong Next.js (quan trọng cho hiệu suất), Cấu hình Webpack/Babel, CI/CD cơ bản (GitHub Actions/GitLab CI), Tối ưu hóa hiệu suất website (Lighthouse score).
+## 1. Tiêu chí chung đánh giá CV tốt (thang 10 điểm)
+- Bố cục rõ ràng, dễ đọc: 2 điểm
+- Nội dung ngắn gọn, có số liệu đo lường được (KPI, doanh số, % tăng trưởng…): 3 điểm
+- Thành tựu nổi bật, có giải thưởng: 2 điểm
+- Từ khóa ATS (Action verbs + kỹ năng cứng/mềm phù hợp vị trí): 1.5 điểm
+- Không lỗi chính tả, lỗi định dạng: 1 điểm
+- Độ dài tối đa 2 trang (hoặc dưới 800 từ nếu 1 trang): 0.5 điểm
 
----
-# Vai trò: Senior/Lead Frontend Developer
-- **Yêu cầu:** Lãnh đạo team, đưa ra quyết định kiến trúc, mentor juniors.
-- **Kỹ năng KINH NGHIỆM:** Kiến trúc Micro-frontend, Tối ưu hóa Bundle Size, Thiết kế hệ thống component (Design Systems), Bảo mật ứng dụng Frontend (XSS, CSRF), Tối ưu hóa Core Web Vitals.
-- **Kỹ năng MỀM:** Kỹ năng phân tích yêu cầu nghiệp vụ (Business Requirements Analysis), Kỹ năng trình bày và thuyết phục (Stakeholder communication), Quản lý dự án Agile/Scrum.
+CV dưới 6 điểm → yếu, 6–7.5 → trung bình khá, 8–9 → tốt, 9+ → xuất sắc.
 
---- VAI TRÒ CHUYÊN MÔN: BACKEND DEVELOPER (PYTHON) ---
+## 2. Nhận xét từng phần quan trọng
 
-# Vai trò: Junior/Mid-level Python Backend Developer
-- **Mục tiêu:** Xây dựng và duy trì các API ổn định, hiệu quả và an toàn.
-- **Kỹ năng CẦN CÓ (Core Skills):** Python 3.x, Frameworks (Django hoặc FastAPI/Flask), Database Management (PostgreSQL, MySQL, hoặc MongoDB), ORM (SQLAlchemy hoặc Django ORM), RESTful API Design.
-- **Công cụ THIẾT YẾU:** Docker (Đóng gói ứng dụng), Pytest/Unit testing, Security best practices (JWT, OAuth 2.0), Linux/Ubuntu (Quản lý môi trường sản xuất).
-- **Kỹ năng NÊN CẢI THIỆN (Advanced Skills):** Kiến trúc Microservices, Queuing systems (RabbitMQ, Redis/Celery), Tối ưu hóa truy vấn SQL, Xử lý bất đồng bộ (Async/Await trong Python).
+### Thông tin cá nhân
+- Email phải chuyên nghiệp (tên + họ, không dùng email tuổi teen kiểu yeuem2000@gmail.com)
+- Số điện thoại đúng 10 số, có thể thêm +84
+- Nên có LinkedIn link (rất quan trọng 2025)
+- Không cần ghi ngày sinh, giới tính, tình trạng hôn nhân, địa chỉ nhà (trừ khi yêu cầu)
 
----
-# Vai trò: Data Engineer/Machine Learning Engineer (Python)
-- **Kỹ năng CẦN CÓ:** Pandas, NumPy, Scikit-learn, TensorFlow/PyTorch, ETL pipeline design, Airflow/Prefect (Quản lý workflow), SQL nâng cao.
-- **Công cụ THIẾT YẾU:** Môi trường đám mây (AWS S3, Google Cloud Storage), Kỹ năng xử lý dữ liệu lớn (Big Data Processing).
+### Học vấn (Education)
+- Chỉ ghi trường top hoặc có liên quan trực tiếp đến công việc
+- Nếu tốt nghiệp ĐH bình thường → chỉ ghi tên trường + chuyên ngành + năm, không cần viết hoa to khuôn
+- Nếu GPA cao (>3.2/4 hoặc 8.0/10) thì nên ghi
+- Nếu đã có 3+ năm kinh nghiệm → có thể bỏ phần học vấn xuống dưới cùng hoặc chỉ để 1 dòng
 
---- QUẢN LÝ DỰ ÁN & CÔNG CỤ PHÁT TRIỂN ---
+### Kinh nghiệm làm việc (Experience)
+Đây là phần QUAN TRÁCH NHẤT (chiếm 70–80% sức nặng CV)
 
-# Kỹ năng Quản lý Package (Package Management)
-- **Ưu tiên:** Sử dụng Homebrew trên Linux/Ubuntu để cài đặt các công cụ hệ thống (system tools) và các ngôn ngữ lập trình.
-- **Thực hành:** Sử dụng `brew install [package]` thay vì `sudo apt install [package]` trừ khi không còn lựa chọn nào khác.
+Nguyên tắc viết bullet point tốt:
+- Bắt đầu bằng động từ mạnh: Đạt, Tăng, Giảm, Quản lý, Phát triển, Triển khai, Đóng góp, Tuyển dụng, Tiến hành…
+- Luôn có SỐ LIỆU cụ thể: doanh số 150%, 200+ khách hàng, 15 KPI, 30% tăng trưởng…
+- Có thành tựu cá nhân hoặc giải thưởng → in đậm hoặc để đầu tiên
 
-# Công cụ và Thực hành chung
-- **Version Control:** Kỹ năng sử dụng Git (rebase, merge, pull requests) là bắt buộc.
-    - **DevOps/Môi trường:** Hiểu biết về việc triển khai (deployment) ứng dụng Next.js trên Vercel/Netlify hoặc triển khai Python Backend bằng Docker.
+Ví dụ tốt:
+• Đạt danh hiệu "Nhân viên xuất sắc nhất năm 2024" với doanh số vượt 150% KPI trong Quý I & II
+• Quản lý danh mục 200+ khách hàng chiến lược ngành nội thất & đồ gia dụng, duy trì tỷ lệ gia hạn hợp đồng 98%
+
+Ví dụ cần sửa:
+• Tìm kiếm khách hàng mới → sửa thành: Phát triển 50+ khách hàng mới mỗi tháng qua LinkedIn & Zalo OA
+
+### Chứng chỉ (Certifications)
+- Chỉ để những chứng chỉ có giá trị thực tế: Google Analytics, HubSpot, Sales Professional, AWS, PMP…
+- Chứng chỉ “Chuyên viên bán hàng chuyên nghiệp SCPS” ít giá trị → có thể bỏ hoặc ghi nhỏ
+
+### Kỹ năng (Skills)
+Phải có 2 cột:
+1. Kỹ năng cứng (Hard skills): CRM (Salesforce, HubSpot), Excel nâng cao, Email Marketing, LinkedIn Sales Navigator, Zalo OA, Google Ads…
+2. Kỹ năng mềm (Soft skills): Đàm phán, thuyết phục, chăm sóc khách hàng, làm việc nhóm…
+
+### Hoạt động ngoại khóa & Sở thích
+- Chỉ để nếu thực sự nổi bật (đại diện trường thi hùng biện, trưởng ban tổ chức sự kiện 500 người…)
+- Sở thích kiểu “đọc sách, du lịch, nghe nhạc” → bỏ hết, nhà tuyển dụng không quan tâm
+- Nếu để thì phải liên quan đến công việc: “Tham gia cộng đồng Sales Việt Nam 15k thành viên”, “Chạy marathon 42km – thể hiện tinh thần bền bỉ”
+
+### Giải thưởng (Awards)
+- Luôn để riêng và in đậm nếu có
+- Ví dụ: Nhân viên kinh doanh xuất sắc Quý I & II 2024 → rất mạnh
+
+## 3. Lời khuyên chuyển việc / định hướng nghề nghiệp phổ biến 2025–2026
+
+### Nhân viên kinh doanh B2B/B2C (0–3 năm kinh nghiệm)
+- Nên nhảy sang các công ty có thương hiệu lớn (Unilever, P&G, Shopee, Tiki, Thế Giới Di Động…) để lấy brand name
+- Học thêm CRM (Salesforce/HubSpot) + LinkedIn Sales Navigator
+- Mục tiêu lương: 15–25tr/tháng (có thể + thưởng KPI)
+
+### Chuyên viên kinh doanh → Key Account Manager / Sales Manager
+- Cần quản lý ít nhất 100 khách hàng lớn hoặc doanh số >5 tỷ/tháng
+- Học thêm kỹ năng đàm phán hợp đồng lớn, quản lý đội nhóm
+- Mục tiêu lương: 30–60tr + hoa hồng
+
+### Chuyển ngành sang Digital Marketing / Performance Marketing
+- Kinh doanh rất dễ chuyển sang Performance Marketing (Google Ads, Meta Ads)
+- Học thêm Google Ads Certification + Meta Blueprint
+- Lương khởi điểm 18–30tr
+
+### Chuyển sang Startup/Tech Sales (SaaS)
+- Rất hot 2025–2026
+- Học tiếng Anh bán hàng (B2 trở lên)
+- Lương base 20–35tr + commission cao (có thể 100–200tr/tháng nếu đóng deal lớn)
+
+## 4. Mẫu câu nhận xét sẵn dùng cho bot (có thể copy-paste)
+
+CV của bạn đạt khoảng 7.8/10 – khá tốt nhưng vẫn có thể nâng lên 9+ dễ dàng.
+Điểm mạnh:
+• Có giải thưởng “Nhân viên xuất sắc 2024” và số liệu vượt 150% KPI → rất ấn tượng
+• Kinh nghiệm quản lý 200+ khách hàng lớn
+
+Điểm cần cải thiện:
+• Phần học vấn có thể rút gọn còn 1 dòng vì đã có 3+ năm kinh nghiệm
+• Bỏ phần “hoạt động” và “sở thích” hiện tại vì không liên quan
+• Thêm LinkedIn link và kỹ năng CRM (HubSpot/Salesforce)
+• Viết lại một số bullet point để có thêm số liệu cụ thể
+
+Lời khuyên nghề nghiệp:
+Với profile hiện tại bạn hoàn toàn đủ sức ứng tuyển vị trí Senior Sales / Key Account Manager tại các công ty nội thất lớn (Hòa Phát, AA, Xuân Hòa) hoặc chuyển sang mảng Tech Sales (công ty SaaS) với mức lương 30–50 triệu/tháng.
+
+## 5. Từ khóa ATS thường gặp vị trí Sales 2025
+Doanh số, KPI, khách hàng chiến lược, doanh thu, chuyển đổi, chăm sóc khách hàng, LinkedIn, Zalo OA, Email Marketing, CRM, HubSpot, Salesforce, đàm phán hợp đồng, báo giá, chốt đơn, upsell, cross-sell, pipeline, forecast…
+
+Bot nên tự động gợi ý thêm những từ khóa này nếu CV còn thiếu.
+
+# END OF KNOWLEDGE.TXT

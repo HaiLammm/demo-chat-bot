@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Vũ Phú Đặng",
+        "title": "Nhân viên CV tiếng Anh",
+        "email": "jhoang@example.org",
+        "phone": "04 0784 8206"
+    },
+    "education": [
+        {
+            "school": "Bùi và Trần Công ty Cổ phần",
+            "major": "Giáo viên",
+            "time": "(2021 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm Lê Công ty Hợp danh",
+            "role": "Chuyên viên CV tiếng Anh",
+            "duration": "(2021 - 2025)",
+            "description": [
+                "Nơi của số sẽ.",
+                "Cũng cũng hơn cái chỉ.",
+                "Đúng nào chỉ người vì vài được."
+            ]
+        }
+    ],
+    "certifications": [
+        "theo"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [
+        "Cũng nào trong dưới của."
+    ],
+    "hobbies": [
+        "Vậy số của một chỉ người."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

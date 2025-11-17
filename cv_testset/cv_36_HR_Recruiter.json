@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Quang Hoàng",
+        "title": "Biên dịch viên",
+        "email": "hoangjohn@example.net",
+        "phone": "+84 14 0489678"
+    },
+    "education": [
+        {
+            "school": "Hoàng Dương Công ty TNHH",
+            "major": "Giáo viên",
+            "time": "(2019 - 2022)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Trần Nguyễn Công ty TNHH MTV",
+            "role": "Chuyên viên HR Recruiter",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Sẽ nếu tại cái để.",
+                "Chưa thì từ khi.",
+                "Sau cách người.",
+                "Từ người theo sẽ các.",
+                "Mà cũng có được không giống."
+            ]
+        }
+    ],
+    "certifications": [
+        "bên"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Từng nhiều cái tự."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

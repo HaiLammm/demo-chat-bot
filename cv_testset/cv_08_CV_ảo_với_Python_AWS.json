@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "Hà Mai",
+        "title": "Nhân viên nhà hàng",
+        "email": "htran@example.com",
+        "phone": "(06)778-2727"
+    },
+    "education": [
+        {
+            "school": "Lê và Lê Công ty Hợp danh",
+            "major": "Sales Representative",
+            "time": "(2018 - 2022)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Đặng Công ty TNHH MTV",
+            "role": "Chuyên viên CV ảo với Python/AWS",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Này làm của khi điều này tại.",
+                "Như với nếu các theo hơn.",
+                "Với nhưng để đúng cũng của.",
+                "Thì gần với bạn.",
+                "Cách vì tại theo trong đang."
+            ]
+        }
+    ],
+    "certifications": [
+        "của"
+    ],
+    "skills": [
+        "Python",
+        "NextJs",
+        "AWS",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Đang như điều."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

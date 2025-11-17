@@ -1,0 +1,44 @@
+{
+    "personal_info": {
+        "name": "Ông Quang Phạm",
+        "title": "Nhân viên Sales B2B",
+        "email": "phamjohn@example.net",
+        "phone": "+84 51 5085212"
+    },
+    "education": [
+        {
+            "school": "Hoàng Doanh nghiệp tư nhân",
+            "major": "Project Manager",
+            "time": "(2020 - 2024)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Nguyễn và đối tác Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên Sales B2B",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Thay hoặc người chưa bạn như.",
+                "Trong vì đã nếu khi tự.",
+                "Đúng từng tự gần giữa khiến."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Các rất từ giữa."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

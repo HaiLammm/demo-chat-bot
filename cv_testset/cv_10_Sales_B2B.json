@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Bảo Dương",
+        "title": "Nhân viên Sales B2B",
+        "email": "kdang@example.net",
+        "phone": "(05) 6303 4289"
+    },
+    "education": [
+        {
+            "school": "Trần Đặng Công ty Trách nhiệm hữu hạn",
+            "major": "Nhân Viên Bán Hàng",
+            "time": "(2020 - 2023)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Mai Hoàng Tập Đoàn",
+            "role": "Chuyên viên Sales B2B",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Là chưa điều nơi rất.",
+                "Như từ tôi mỗi nhiều này vài đó.",
+                "Của tại đi cho hoặc.",
+                "Tại cũng như.",
+                "Số để mỗi các."
+            ]
+        }
+    ],
+    "certifications": [
+        "đúng"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Khi từng cũng để bạn hơn."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

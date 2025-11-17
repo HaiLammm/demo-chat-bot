@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Bà Lâm Hoàng",
+        "title": "Giám đốc kinh doanh",
+        "email": "dangjohn@example.com",
+        "phone": "+84-19-258 8992"
+    },
+    "education": [
+        {
+            "school": "Lê và Dương Công ty TNHH",
+            "major": "Nghệ sĩ",
+            "time": "(2018 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Dương Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên CV ảo với Python/AWS",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Mỗi tôi nếu không.",
+                "Dưới để của.",
+                "Đang từ không tại lớn."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Python",
+        "NextJs",
+        "AWS",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Khi có với tại."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

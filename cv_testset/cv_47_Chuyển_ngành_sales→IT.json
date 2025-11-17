@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Huy Hữu Bùi",
+        "title": "Chuyên viên tư vấn tuyển sinh",
+        "email": "john84@example.com",
+        "phone": "+84-44-353 9596"
+    },
+    "education": [
+        {
+            "school": "Phạm và Dương Công ty TNHH",
+            "major": "Lập trình viên",
+            "time": "(2016 - 2019)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Bùi và Lê Công ty TNHH",
+            "role": "Chuyên viên Chuyển ngành sales→IT",
+            "duration": "(2020 - 2025)",
+            "description": [
+                "Nếu khiến của như trong.",
+                "Nhưng nào nhiều mà từng nhưng đang.",
+                "Đúng vẫn được.",
+                "Có lớn các giống.",
+                "Sẽ từng tại.",
+                "Đúng thay của điều dưới với."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Cái không vậy đến."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

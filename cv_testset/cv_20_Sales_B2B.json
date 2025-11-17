@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Thành Nguyễn",
+        "title": "Thư ký pháp lý",
+        "email": "jane87@example.net",
+        "phone": "(00) 4137 7311"
+    },
+    "education": [
+        {
+            "school": "Đặng và đối tác Công ty Cổ phần",
+            "major": "Chuyên viên nhân sự",
+            "time": "(2019 - 2025)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Vũ và Hoàng Công ty Cổ phần",
+            "role": "Chuyên viên Sales B2B",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Bạn theo tại gần của hơn của.",
+                "Đó của tại theo nếu.",
+                "Lớn cũng tại cái.",
+                "Có trong của sẽ vậy như thế."
+            ]
+        }
+    ],
+    "certifications": [
+        "thay"
+    ],
+    "skills": [
+        "Excel",
+        "CRM",
+        "GraphQL",
+        "ML"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Từ nhưng đã trong này số."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

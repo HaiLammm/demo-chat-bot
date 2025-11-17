@@ -1,0 +1,48 @@
+{
+    "personal_info": {
+        "name": "Quý ông Minh Lê",
+        "title": "Nhân viên Sales nội thất",
+        "email": "johndang@example.org",
+        "phone": "(03)546-2163"
+    },
+    "education": [
+        {
+            "school": "Đặng và đối tác Công ty Hợp danh",
+            "major": "Nhà báo",
+            "time": "(2016 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Bùi và Dương Công ty TNHH",
+            "role": "Chuyên viên Sales nội thất",
+            "duration": "(2023 - 2024)",
+            "description": [
+                "Để đã thay với sau vẫn chỉ.",
+                "Tự các hơn nhưng.",
+                "Một với theo khiến.",
+                "Hơn hoặc người nhiều.",
+                "Như hơn như này vài nếu hơn.",
+                "Từ sau chưa nơi số tôi để lớn.",
+                "Đúng một đã thay sau cũng."
+            ]
+        }
+    ],
+    "certifications": [
+        "chưa"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Khiến giống khiến các."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

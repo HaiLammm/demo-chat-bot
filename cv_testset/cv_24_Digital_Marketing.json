@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Chị Bảo Bùi",
+        "title": "Nghệ sĩ",
+        "email": "dvu@example.org",
+        "phone": "(00) 6615 1446"
+    },
+    "education": [
+        {
+            "school": "Trần Công ty Trách nhiệm hữu hạn",
+            "major": "Kỹ sư giám sát",
+            "time": "(2022 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Vũ và đối tác Công ty Hợp danh",
+            "role": "Chuyên viên Digital Marketing",
+            "duration": "(2023 - 2024)",
+            "description": [
+                "Sẽ đó để.",
+                "Giống dưới giống cái không.",
+                "Nào số giống.",
+                "Người hơn số của dưới lớn gần.",
+                "Trong bạn vài lớn chưa đi hơn."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Điều nếu chưa các."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

@@ -1,5 +1,6 @@
 import discord
 from discord.ext import commands
+from utils.database import init_db
 import asyncio
 import config
 import events
@@ -10,6 +11,7 @@ from events import on_message
 from events import on_member_join
 import logging
 
+init_db()
 logging.basicConfig(
     filename="logs/bot.log",
     level=logging.DEBUG,

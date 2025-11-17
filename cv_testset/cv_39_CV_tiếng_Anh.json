@@ -1,0 +1,47 @@
+{
+    "personal_info": {
+        "name": "Chị Hà Vũ",
+        "title": "Nhân viên CV tiếng Anh",
+        "email": "duongjane@example.com",
+        "phone": "+84 32 7412172"
+    },
+    "education": [
+        {
+            "school": "Nguyễn và Bùi Công ty TNHH MTV",
+            "major": "Chuyên viên tín dụng",
+            "time": "(2021 - 2019)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Bùi Công ty Trách nhiệm hữu hạn",
+            "role": "Chuyên viên CV tiếng Anh",
+            "duration": "(2022 - 2024)",
+            "description": [
+                "Từng không hoặc cách đến từ.",
+                "Bên thay của của vẫn của.",
+                "Của nhiều của điều nhiều một người.",
+                "Số cho nếu vì rất nếu và.",
+                "Thì sẽ chưa nào sẽ.",
+                "Tại từ dưới của hơn."
+            ]
+        }
+    ],
+    "certifications": [
+        "khi"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Sau như giữa như các tự giống."
+    ],
+    "activities": [
+        "2025"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

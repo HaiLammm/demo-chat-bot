@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "An Dương",
+        "title": "Nhân viên Fresher IT",
+        "email": "janebui@example.com",
+        "phone": "+84-95-456917"
+    },
+    "education": [
+        {
+            "school": "Mai và Phạm Công ty Hợp danh",
+            "major": "Y tá",
+            "time": "(2016 - 2024)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Bùi Hoàng Tập Đoàn",
+            "role": "Chuyên viên Fresher IT",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Như thì về thay mỗi nơi.",
+                "Theo thay tôi theo tại giữa.",
+                "Điều và hoặc bên.",
+                "Và nếu bạn đến vẫn như sau.",
+                "Như đang giống của không đã.",
+                "Có vì đúng."
+            ]
+        }
+    ],
+    "certifications": [
+        "vài"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [
+        "Gần vẫn không."
+    ],
+    "hobbies": [
+        "Cái dưới hơn của số."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

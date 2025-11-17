@@ -1,0 +1,44 @@
+{
+    "personal_info": {
+        "name": "Quang Bùi",
+        "title": "Nhà tư vấn tài chính",
+        "email": "john63@example.org",
+        "phone": "(09) 9177 5087"
+    },
+    "education": [
+        {
+            "school": "Đặng Dương Tập Đoàn",
+            "major": "Giám đốc kinh doanh",
+            "time": "(2021 - 2021)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm Công ty TNHH MTV",
+            "role": "Chuyên viên Sales nội thất",
+            "duration": "(2020 - 2024)",
+            "description": [
+                "Để vậy cho như của thay chưa.",
+                "Thế không số tự mà vì.",
+                "Cách thì tự đúng."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Mà chưa điều vì vài đó bên."
+    ],
+    "activities": [
+        "2023"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

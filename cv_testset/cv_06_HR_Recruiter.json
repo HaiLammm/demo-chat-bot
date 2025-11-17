@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Tùng Dương",
+        "title": "Sales Representative",
+        "email": "tranjane@example.com",
+        "phone": "+84-26-960 5286"
+    },
+    "education": [
+        {
+            "school": "Dương Phạm Công ty Hợp danh",
+            "major": "Trưởng phòng kinh doanh",
+            "time": "(2016 - 2024)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Đặng Công ty Hợp danh",
+            "role": "Chuyên viên HR Recruiter",
+            "duration": "(2021 - 2024)",
+            "description": [
+                "Để sau đến có.",
+                "Giữa tại cách thế cũng người.",
+                "Như làm đã lớn.",
+                "Để sau cũng vì.",
+                "Nhiều và đúng vì đi."
+            ]
+        }
+    ],
+    "certifications": [
+        "tôi"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Có các hoặc với."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Duyên Lê",
+        "title": "Kiến trúc sư",
+        "email": "hoangjane@example.net",
+        "phone": "(04) 8077 4452"
+    },
+    "education": [
+        {
+            "school": "Mai Vũ Doanh nghiệp tư nhân",
+            "major": "Chuyên viên bảo mật",
+            "time": "(2022 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Mai Công ty TNHH MTV",
+            "role": "Chuyên viên CV tiếng Anh",
+            "duration": "(2022 - 2025)",
+            "description": [
+                "Nếu tại các giữa trong.",
+                "Số giữa đúng dưới để hoặc.",
+                "Của tại với tự và điều được số.",
+                "Như với từng như đã.",
+                "Từ vẫn của cũng để được hơn này."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Cho như thay sẽ và không."
+    ],
+    "activities": [
+        "2022"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

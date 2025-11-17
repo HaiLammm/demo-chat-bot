@@ -1,0 +1,46 @@
+{
+    "personal_info": {
+        "name": "Cô Hà Đặng",
+        "title": "Nhân viên HR Recruiter",
+        "email": "janebui@example.org",
+        "phone": "(02) 0914 5196"
+    },
+    "education": [
+        {
+            "school": "Đặng và Nguyễn Công ty TNHH MTV",
+            "major": "Chuyên viên bảo mật",
+            "time": "(2018 - 2020)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Dương Dương Công ty Hợp danh",
+            "role": "Chuyên viên HR Recruiter",
+            "duration": "(2020 - 2025)",
+            "description": [
+                "Bạn như giống.",
+                "Sẽ từng cách với với vậy gần sau.",
+                "Để nhưng nơi về.",
+                "Dưới thế này trong rất.",
+                "Từ cho từng."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Làm khiến mà được được đi."
+    ],
+    "activities": [
+        "2021"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

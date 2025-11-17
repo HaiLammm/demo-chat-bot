@@ -1,0 +1,44 @@
+{
+    "personal_info": {
+        "name": "Chị Khoa Phạm",
+        "title": "Nhân viên Developer React",
+        "email": "johnhoang@example.org",
+        "phone": "+84-68-890346"
+    },
+    "education": [
+        {
+            "school": "Hoàng và Lê Doanh nghiệp tư nhân",
+            "major": "Nhà phân tích dữ liệu",
+            "time": "(2020 - 2021)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Đặng và đối tác Công ty TNHH MTV",
+            "role": "Chuyên viên Developer React",
+            "duration": "(2023 - 2024)",
+            "description": [
+                "Có trong vài tự cách để rất.",
+                "Cách hơn theo như.",
+                "Nơi theo rất dưới gần có đi với."
+            ]
+        }
+    ],
+    "certifications": [
+        "số"
+    ],
+    "skills": [
+        "Excel",
+        "CRM"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Nếu cái tại rất chỉ."
+    ],
+    "activities": [
+        "2025"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}

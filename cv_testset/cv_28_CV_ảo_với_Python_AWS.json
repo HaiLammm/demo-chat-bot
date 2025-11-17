@@ -1,0 +1,49 @@
+{
+    "personal_info": {
+        "name": "Trọng Mai",
+        "title": "Giám đốc kinh doanh",
+        "email": "qpham@example.org",
+        "phone": "05 9953370"
+    },
+    "education": [
+        {
+            "school": "Bùi Công ty TNHH",
+            "major": "Digital Marketer",
+            "time": "(2016 - 2021)"
+        }
+    ],
+    "experience": [
+        {
+            "company": "Phạm và Phạm Doanh nghiệp tư nhân",
+            "role": "Chuyên viên CV ảo với Python/AWS",
+            "duration": "(2023 - 2024)",
+            "description": [
+                "Vì đang mà bạn người rất các.",
+                "Và nào cũng thì vậy thay.",
+                "Để trong có như chưa hoặc cái.",
+                "Và hơn từ hơn là vì vì.",
+                "Và với là cho như về.",
+                "Này đã điều của.",
+                "Điều nơi tôi cái vậy của để."
+            ]
+        }
+    ],
+    "certifications": [
+        "SCPS"
+    ],
+    "skills": [
+        "Python",
+        "NextJs",
+        "AWS"
+    ],
+    "awards": [],
+    "hobbies": [
+        "Từng vì với cũng đi số."
+    ],
+    "activities": [
+        "2024"
+    ],
+    "other_sections": {
+        "DỰ ÁN": []
+    }
+}
