@@ -5,5 +5,5 @@ import os
 def load_data(file_path='data/knowledge.txt'):
     loader = TextLoader(file_path)
     documents = loader.load()
-    text_splitter = CharacterTextSplitter(chunk_size=200, chunk_overlap=40)
+    text_splitter = CharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
     return text_splitter.split_documents(documents)
